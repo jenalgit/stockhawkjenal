@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+        <dimen name="widget_stock_width">180dp</dimen>
+    <dimen name="widget_stock_height">110dp</dimen>
+</resources>
